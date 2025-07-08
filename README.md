@@ -1,4 +1,4 @@
-<h1 align="center">Fala, <dev/>! Tudo em ordem?</h1>
+<h1 align="center">Fala, dev! Tudo em ordem?</h1>
 
 ###
 
