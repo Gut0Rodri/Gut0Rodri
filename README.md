@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tecnologias em desenvolvimento</p>
+<p align="left">🚀 Tecnologias em aprendizado</p>
 
 ###
 
