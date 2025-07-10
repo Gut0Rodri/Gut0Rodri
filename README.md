@@ -1,8 +1,8 @@
-<h2 align="left">Fala 	&ltdev/&gt 👊! Como vai?</h2>
+<h1 align="left">Fala 	&ltdev/&gt 👊! Como vai?</h1>
 
 ###
 
-<p align="left">🚀 Tecnologias em aprendizado</p>
+<h3 align="left">🚀 Tecnologias em aprendizado</h3>
 
 ###
 
