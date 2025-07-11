@@ -2,8 +2,11 @@
 
 ###
 
-<p>👦 21 anos</p>
-<p>🎓 Técnico em desenvolvimento de sistemas, atualmente cursando Análise e Desenvolvimento de Sistemas</p>
+<p>
+  👦 21 anos 
+  <br/>
+  🎓 Técnico em desenvolvimento de sistemas, atualmente cursando Análise e Desenvolvimento de Sistemas
+</p>
 
 ###
 
@@ -39,7 +42,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gut0Rodri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gut0Rodri&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="200" alt="languages graph"  />
 </div>
