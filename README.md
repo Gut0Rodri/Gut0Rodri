@@ -1,4 +1,9 @@
-<h1 align="left">Fala 	&ltdev/&gt 👊! Como vai?</h1>
+<h1 align="left">Fala 	&ltdev/&gt 👊! Como vai? Eu sou Carlos</h1>
+
+###
+
+<p>👦 21 anos</p>
+<p>🎓 Técnico em desenvolvimento de sistemas, atualmente cursando Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
