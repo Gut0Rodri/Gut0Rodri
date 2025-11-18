@@ -1,4 +1,4 @@
-<h1 align="left">Fala 	&ltdev/&gt 👊! Como vai? Eu sou Carlos</h1>
+<h1 align="left">Fala dev 👊! Como vai? Eu sou Carlos</h1>
 
 ###
 
