@@ -3,7 +3,7 @@
 ###
 
 <p>
-  👦 21 anos 
+  👦 22 anos 
   <br/>
   🎓 Técnico em desenvolvimento de sistemas, atualmente cursando Análise e Desenvolvimento de Sistemas
 </p>
